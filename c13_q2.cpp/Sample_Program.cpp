@@ -5,7 +5,7 @@
 using namespace std;\
 
 //This program shows the utilization of a class that holds employee data by using it to create 3 objects
-//Matanda Hillary Phiri
+//Matanda Hillary Phiri/
 
 int main(){
 	//Declare variables and initialize objects
